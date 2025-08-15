@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Amirabs7/Amirabs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Amira 👋
 
-Here are some ideas to get you started:
+## 🔹 About Me
+Data analyst & researcher based in Berlin. I love turning messy datasets into actionable insights. Experienced with Python, R, and social/political datasets. Currently exploring labor markets, happiness indicators, and democratization trends in MENA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+- **Languages:** Python (pandas, matplotlib, scikit-learn), R (tidyverse)
+- **Analysis & ML:** EDA, UMAP, KMeans, regression, clustering
+- **Visualization:** matplotlib, seaborn, plotly, ggplot2
+- **Domain Expertise:** Labor markets, political transitions, social trends, happiness
+
+## 🔹 Featured Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| Berlin Labor Market | Unemployment analysis by age, gender, nationality | [Repo](https://github.com/Amirabs7/BerlinUnemploymentInsight-2025) |
+| OKCupid Clustering | Dating profile clustering using UMAP & KMeans | [Repo](https://github.com/Amirabs7/OKCupid-Analysis) |
+| Tunisia Democracy | V-Dem ERT analysis of Tunisia’s democratic trajectory | [Repo](https://github.com/Amirabs7/TunisiaDemocracyAnalysis) |
+| World Development | Global development indicators analysis | [Repo](https://github.com/Amirabs7/WorldDevelopmentData) |
+| International Happiness | Happiness factors across nations | [Repo](https://github.com/Amirabs7/HappinessReportAnalysis) |
+
+## 🔹 Contact
+- 📧 besamira77@gmail.com
+- 💼 LinkedIn:(https://www.linkedin.com/in/amira-ben-salem-043866a8/)
