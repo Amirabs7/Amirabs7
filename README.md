@@ -1,6 +1,9 @@
 
 # Hi, I'm Amira 👋
 
+![Amira smiling](amira_smile.jpg)
+
+
 ## 🔹 About Me
 Data analyst & researcher based in Berlin. I love turning messy datasets into actionable insights. Experienced with Python, R, and social/political datasets. Currently exploring labor markets, happiness indicators, and democratization trends in MENA.
 
