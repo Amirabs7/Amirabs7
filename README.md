@@ -1,7 +1,7 @@
 
 # Hi, I'm Amira 👋
 
-![Amira smiling](amira_smile.jpg)
+![Amira smiling](amira_smile1.jpg)
 
 
 ## 🔹 About Me
