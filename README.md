@@ -1,3 +1,8 @@
+**<p align="center">
+  <img src="amira_smile1.jpg" alt="Amira smiling" width="150" height="150">
+</p>
+**
+
 
 # Hi, I'm Amira 👋
 
