@@ -9,7 +9,7 @@
 
 
 ## 🔹 About Me
-Data analyst & researcher based in Berlin. I love turning messy datasets into actionable insights. Experienced with Python, R, and social/political datasets. Currently exploring labor markets, happiness indicators, and democratization trends in MENA.
+Data analyst & researcher based in Berlin. I love turning messy datasets into actionable insights. Experienced with Python, R, and social/political datasets. Currently exploring labor markets, happiness indicators, and democratization trends in MENA region.
 
 ## 🔹 Skills
 - **Languages:** Python (pandas, matplotlib, scikit-learn), R (tidyverse)
